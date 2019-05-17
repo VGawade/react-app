@@ -1,0 +1,24 @@
+.app {
+  main {
+    margin: 20px 0;
+  }
+
+  .App-link {
+    color: #61dafb;
+  }
+
+  .info-section {
+    display: inline-block;
+  }
+  .table-container {
+    margin-top: 80px;
+  }
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,82 @@
+.receiving-container {
+  h1.page-title {
+    font-size: 30px;
+    font-weight: 200;
+    color: #508be5;
+    cursor: pointer;
+  }
+
+  .left-link-section {
+    height: 100%;
+    float: right;
+    font-size: 21px;
+    background-color: rgba(52, 59, 66, 0.3);
+    font-weight: 300;
+    width: 55px;
+    span {
+      transform: rotate(-90deg);
+      position: relative;
+      top: 132px;
+      right: 37px;
+      display: block;
+      cursor: pointer;
+      width: max-content;
+      a {
+        color: #ffff;
+        text-decoration: underline;
+      }
+    }
+  }
+  .revenue-section {
+    background: rgba(52, 59, 66, 0.3);
+    width: 350px;
+    text-align: center;
+    height: 100%;
+    padding-top: 35px;
+    .label-group {
+      padding: 20px 0;
+      .label {
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: 300;
+        margin: 0;
+        padding: 0;
+      }
+      .labe-value {
+        color: #6ea1ef;
+        position: relative;
+        top: -7px;
+        font-size: 32px;
+        font-weight: 700;
+        text-shadow: 2px 2px 4px #000000;
+      }
+    }
+  }
+  .middle-section {
+    .recharts-wrapper {
+      margin: 0 auto;
+    }
+    .chart-tabs-container {
+      display: flex;
+      .chart-tabs {
+        list-style: none;
+        width: 700px;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+        li {
+          display: inline-flex;
+          margin: 20px 30px;
+          font-size: 18px;
+          cursor: pointer;
+          a {
+            color: #ffffff;
+            &.active {
+              color: #0f9dfc;
+            }
+          }
+        }
+      }
+    }
+  }
+}

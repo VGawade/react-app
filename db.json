@@ -1,0 +1,144 @@
+{
+  "ready-to-ship-revenue-data": [
+    {
+      "label": "Potential Revenue",
+      "value": "47K"
+    },
+    {
+      "label": "Total Lines",
+      "value": 230
+    },
+    {
+      "label": "Total Units",
+      "value": 1027
+    }
+  ],
+  "ready-to-ship-table-data": [],
+  "stack-bar-all": [
+    {
+      "name": "Page A",
+      "uv": 4000,
+      "pv": 2400,
+      "amt": 2400
+    },
+    {
+      "name": "Page B",
+      "uv": 3000,
+      "pv": 1398,
+      "amt": 2210
+    },
+    {
+      "name": "Page C",
+      "uv": 2000,
+      "pv": 8,
+      "amt": 2290
+    }
+  ],
+  "stack-bar-top": [
+    {
+      "name": "Page A",
+      "uv": 2000,
+      "pv": 2100,
+      "amt": 2400
+    },
+    {
+      "name": "Page B",
+      "uv": 6000,
+      "pv": 1000,
+      "amt": 2210
+    },
+    {
+      "name": "Page C",
+      "uv": 2000,
+      "pv": 8,
+      "amt": 2290
+    }
+  ],
+  "stack-bar-will-call": [
+    {
+      "name": "Page A",
+      "uv": 2130,
+      "pv": 2100,
+      "amt": 2400
+    },
+    {
+      "name": "Page B",
+      "uv": 3470,
+      "pv": 1000,
+      "amt": 2210
+    },
+    {
+      "name": "Page C",
+      "uv": 7000,
+      "pv": 8,
+      "amt": 2290
+    }
+  ],
+  "stack-bar-hold": [
+    {
+      "name": "Page A",
+      "uv": 1200,
+      "pv": 2100,
+      "amt": 2400
+    },
+    {
+      "name": "Page B",
+      "uv": 4500,
+      "pv": 1000,
+      "amt": 2210
+    },
+    {
+      "name": "Page C",
+      "uv": 1000,
+      "pv": 8,
+      "amt": 2290
+    }
+  ],
+  "receiving-revenue-data": [
+    {
+      "label": "Potential Revenue",
+      "value": "38K"
+    },
+    {
+      "label": "Total Lines",
+      "value": 89
+    },
+    {
+      "label": "Total Units",
+      "value": 1034
+    }
+  ],
+  "pie-chart-data": [
+    {
+      "name": "PD",
+      "uv": 4000,
+      "pv": 2400,
+      "amt": 2400
+    },
+    {
+      "name": "W1",
+      "uv": 3000,
+      "pv": 1398,
+      "amt": 2210
+    },
+    {
+      "name": "W2",
+      "uv": 2000,
+      "pv": 8,
+      "amt": 2290
+    },
+    {
+      "name": "W3",
+      "uv": 2000,
+      "pv": 8,
+      "amt": 2290
+    },
+    {
+      "name": "W4",
+      "uv": 2000,
+      "pv": 8,
+      "amt": 2290
+    }
+  ],
+  "receiving-table-data": []
+}
